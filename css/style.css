@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
-    --primary: #2878EB;
-    --secondary: #F14D5D;
+    --primary: #EB7828;
+    --secondary: #EB7828;//#EB7828//#F14D5D
     --light: #ECF4FF;
     --dark: #120F2D;
 }
@@ -14,10 +14,16 @@
     margin-left: 0;
 }
 
+a{
+    color: #EB7828;
+    font-size: 20px;
+    font: fantasy;
+}
+
 h1,
 h2,
 .font-weight-bold {
-    font-weight: 700 !important;
+    font-weight: 500 !important;//700
 }
 
 h3,
